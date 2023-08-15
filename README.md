@@ -19,12 +19,12 @@ Project Features:
 
 Hardware Requirements:
 
-1.Arduino Board
-2.Solar Panel
-3.Four Light Sensors
-4.Two Servo Motors
-5.Four Resistors (for light sensor connections)
-6.Various Connectors and Wiring
+1.Arduino Board                                                                                  
+2.Solar Panel                                                              
+3.Four Light Sensors                                                              
+4.Two Servo Motors                                                                
+5.Four Resistors (for light sensor connections)                          
+6.Various Connectors and Wiring                                                  
 
 Implementation:
 
