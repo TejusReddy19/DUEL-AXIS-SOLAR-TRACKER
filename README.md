@@ -1,4 +1,4 @@
-# DUEL-AXIS-SOLAR-TRACKER
+# DUAL-AXIS-SOLAR-TRACKER
 Introducing the Dual-Axis Solar Tracker IoT Project
 
 Our Dual-Axis Solar Tracker IoT project is an innovative and energy-efficient solution that harnesses the power of technology to optimize solar energy generation. By intelligently tracking the sun's movement throughout the day, this project ensures maximum exposure to sunlight and efficient charging of solar panels. Here's a brief overview of the project:
